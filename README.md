@@ -26,8 +26,6 @@ wfs_to_shapefile("alerts_icmbio", "C:/sua/pastas", timeout=300)
 | `output_path` | Caminho do diretório onde o Shapefile será salvo                     |
 | `timeout`     | Tempo máximo (em segundos) para a resposta do servidor (padrão: 300) |
 
-## 🛑 Aviso de segurança
-
 
 ## 🧠 Observações
 
